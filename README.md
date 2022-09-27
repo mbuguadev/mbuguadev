@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mbuguadev
 - 👀 I’m interested in Web Development and Machine Learning.
 - 🌱 I’m currently learning and building projects in front-end programming.
-- 💞️ I’m looking to collaborate on this platform with other deveopers to learn from them for higher level of competence.
+- 💞️ I’m looking to collaborate on this platform with other developers to learn from them for higher level of competence.
 - 📫 How to reach me? you can reach me through my email address dennis.mbuguang@gmail.com
 
 <!---
